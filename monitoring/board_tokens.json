@@ -1,0 +1,11 @@
+{
+  "note": "Board tokens for Channel B polling. Copy to board_tokens.json and replace the examples. Tokens are harvested from Channel A search-hit URLs. A token is often NOT the company name: confirm each by fetching its feed before adding it.",
+  "greenhouse": {
+    "exampletoken": "Example Company (fictional)"
+  },
+  "lever": {
+    "examplelever": "Example Lever Company (fictional)"
+  },
+  "workable": {},
+  "large_boards": ["exampletoken"]
+}

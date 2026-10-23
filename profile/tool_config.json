@@ -1,0 +1,14 @@
+{
+  "_note": "Settings for tools/signal_check.py. bullet_counts is by role position, most recent role first; the last entry repeats for any older role. The defaults are one calibration, set for a Director-level candidate with four roles. Change them for your level; see method/rules.md, B4.",
+  "bullet_counts": [[5, 8], [3, 5], [3, 3], [1, 2]],
+  "bullet_words": 30,
+  "bullet_words_allowance": 35,
+  "mandate_words": 60,
+  "summary_words": 60,
+  "summary_sentences": 4,
+  "summary_figures": 2,
+  "page_min": 1.0,
+  "page_max": 1.5,
+  "page_max_extended": 2.0,
+  "extended_when_current_role_bullets_at_least": 7
+}

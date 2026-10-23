@@ -1,0 +1,4 @@
+{
+  "note": "Postings already surfaced, keyed by URL. Written after each sweep. status: live_feed_verified (a board feed returned it in that run; the only status that means open) | dead (confirmed closed: posting API errors AND absent from a complete board read) | filtered (screened out; reason in 'why') | channel_c_unverified (no feed behind it, liveness unknown) | unscreened (surfaced, not yet pre-screened).",
+  "postings": {}
+}

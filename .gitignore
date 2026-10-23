@@ -1,0 +1,13 @@
+# Generated files: rebuild from markdown, never commit
+exports/
+*.pdf
+*.docx
+__pycache__/
+*.pyc
+
+# Personal working files. Remove these lines only in your own private copy
+# if you want git to track your profile and board.
+profile/*.local.*
+*.local.txt
+denylist*.txt
+.DS_Store
